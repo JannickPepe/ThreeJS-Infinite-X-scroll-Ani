@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { Preload, Scroll, ScrollControls } from "@react-three/drei"
 import { Canvas, useThree } from "@react-three/fiber"
